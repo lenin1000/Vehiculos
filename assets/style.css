@@ -1,0 +1,52 @@
+
+
+.card{
+
+border: 6px solid #696969;
+
+}
+
+.card-body{
+
+
+   margin: 10px;
+
+}
+
+.rounded-t-5 {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+
+  @media (min-width: 992px) {
+    .rounded-tr-lg-0 {
+      border-top-right-radius: 0;
+    }
+
+    .rounded-bl-lg-5 {
+      border-bottom-left-radius: 2rem;
+    }
+  }
+
+
+.text-center{
+
+
+    margin-top: 12em;
+
+    width: 80%;
+
+    margin-left: 8em;
+
+
+}  
+
+.tituloLogin{
+
+    text-align: center;
+
+    font-size: 50px;
+
+    margin-bottom: 18px;
+
+}
